@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "Wasm_DataGrid",
+  "display": "standalone",
+  "name": "Wasm_DataGrid",
+  "short_name": "Wasm_DataGrid",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}

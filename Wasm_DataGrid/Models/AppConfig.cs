@@ -1,0 +1,6 @@
+namespace Wasm_DataGrid.Models;
+
+public record AppConfig
+{
+    public string? Environment { get; init; }
+}
